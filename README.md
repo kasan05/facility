@@ -1,6 +1,6 @@
 # facility
 
-This is web application developed using spring boot.
+This is web application developed using spring boot 3 and the Spring security 6.
 app is secured using spring security and JWT token based authenticatioin.
 Endpoints are secured (role based authorization)
 Signup endpoint allow all people to sign up now.
